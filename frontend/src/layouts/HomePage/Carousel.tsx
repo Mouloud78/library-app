@@ -22,13 +22,13 @@ export const Carousel = () => {
                                         />
                                         <h6 className="mt-2">Book</h6>
                                         <p>Luv2Code</p>
-                                        <a className="btn main-color text-white" href="#" >Reserve</a>
+                                        <a className="btn main-color text-white" href="#">Reserve</a>
                                     </div>
                                 </div>
                             </div>
                         </div>
 
-                        <div className="carousel-item active">
+                        <div className="carousel-item">
                             <div className="row d-flex justify-content-center align-items-center">
                                 <div className="col-xs-6 col-sm-6 col-md-4 col-lg-3 mb-3">
                                     <div className="text-center">
@@ -40,13 +40,13 @@ export const Carousel = () => {
                                         />
                                         <h6 className="mt-2">Book</h6>
                                         <p>Luv2Code</p>
-                                        <a className="btn main-color text-white" href="#" >Reserve</a>
+                                        <a className="btn main-color text-white" href="#">Reserve</a>
                                     </div>
                                 </div>
                             </div>
                         </div>
 
-                        <div className="carousel-item active">
+                        <div className="carousel-item">
                             <div className="row d-flex justify-content-center align-items-center">
                                 <div className="col-xs-6 col-sm-6 col-md-4 col-lg-3 mb-3">
                                     <div className="text-center">
@@ -58,7 +58,7 @@ export const Carousel = () => {
                                         />
                                         <h6 className="mt-2">Book</h6>
                                         <p>Luv2Code</p>
-                                        <a className="btn main-color text-white" href="#" >Reserve</a>
+                                        <a className="btn main-color text-white" href="#">Reserve</a>
                                     </div>
                                 </div>
                             </div>
